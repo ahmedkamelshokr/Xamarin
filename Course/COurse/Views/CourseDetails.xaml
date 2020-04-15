@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Course.Views.CourseDetails">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked"/>
+        <ToolbarItem Text="Add" Clicked="Add_Clicked" Command="{Binding AddCourseCommand}"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Picker ItemsSource="{Binding CourseCategories}"
+                    ItemDisplayBinding="{Binding Name}"
+        SelectedItem="{Binding CourseModel.Category}"  
+            x:Name="CourseCategoryddl" FontSize="Medium" Title="Course Category" >
+
+            </Picker>
+            <Entry Text="{Binding  CourseName}" x:Name="CourseName" Placeholder="Name" FontSize="Medium"/>
+            <Label x:Name="CourseModel_NameError"         IsVisible="False" TextColor="Red" />
+            <Editor Text="{Binding CourseModel.Summary}" x:Name="CourseSummary" Placeholder="Summary" FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

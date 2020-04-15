@@ -1,0 +1,40 @@
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\bin\Debug\netstandard2.0\Course.deps.json
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\bin\Debug\netstandard2.0\Course.dll
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\bin\Debug\netstandard2.0\ref\Course.dll
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\bin\Debug\netstandard2.0\Course.pdb
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\CourseDetails.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Course.AssemblyInfoInputs.cache
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Course.AssemblyInfo.cs
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Course.dll
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\ref\Course.dll
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Course.pdb
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ahmed.kamel\source\repos\COurse\COurse\COurse\obj\Debug\netstandard2.0\Course.csprojAssemblyReference.cache
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\bin\Debug\netstandard2.0\Course.deps.json
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\bin\Debug\netstandard2.0\Course.dll
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\bin\Debug\netstandard2.0\ref\Course.dll
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\bin\Debug\netstandard2.0\Course.pdb
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Course.csprojAssemblyReference.cache
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\CourseDetails.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Course.csproj.CoreCompileInputs.cache
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Course.AssemblyInfoInputs.cache
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Course.AssemblyInfo.cs
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\XamlC.stamp
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Course.dll
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\ref\Course.dll
+C:\A Kamel\projects\CDP\Xamarin\COurse\COurse\obj\Debug\netstandard2.0\Course.pdb

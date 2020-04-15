@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf- 8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Course.Views.ItemDetailPage"
+             Title="{Binding Title}">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked"/>
+        <ToolbarItem Text="Add" Clicked="Add_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout Spacing="20" Padding="15">
+      
+        <Picker x:Name="NoteCourse" FontSize="Medium" Title="Course" >
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Course 1</x:String>
+                    <x:String>Course 2</x:String>
+                    <x:String>Course 3</x:String>
+                    <x:String>Course 4</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Entry FontSize="Medium" x:Name="Heading" Placeholder="Note Heading"/>
+
+        <Editor x:Name="NoteText" Placeholder="Text" AutoSize="TextChanges" FontSize="Medium"/>
+    </StackLayout>
+    
+</ContentPage>
